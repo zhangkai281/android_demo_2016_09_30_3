@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         ImageView imageView = (ImageView) findViewById(R.id.iv_id);
+
+
+        Person person = new Person();
     }
 }
